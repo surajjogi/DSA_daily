@@ -1,0 +1,21 @@
+question link=https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&difficulty%5B%5D=-1&category%5B%5D=Tree&sortBy=submissions
+
+class Solution {
+  public:
+   int totalleaveNode(Node*root,int &count){
+if ((!root->left)&&(!root->right))
+{
+    count++;
+    return 0;
+}
+totalleaveNode(root->left,count);
+totalleaveNode(root->right,count);
+
+return count;
+ }
+    // Function to count the number of leaf nodes in a binary tree.
+    int countLeaves(Node* root) {
+        int count=0;
+       return totalleaveNode(root,count);
+    }
+};
