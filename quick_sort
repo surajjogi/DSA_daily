@@ -1,0 +1,37 @@
+class Solution {
+public:
+int partion(vector<int> &arr,int start,int end){
+    int curr=start,pre=start,temp1,temp2;
+    while(curr<=end)
+    {
+        if (arr[curr]>arr[end]){
+         curr++;
+        }
+        else{
+            swap(arr[curr],arr[pre]);
+          
+            pre++;
+            curr++;
+        }
+        
+    }
+    return pre-1;
+
+
+}
+    void quickSort(vector<int>& arr, int start, int end) {
+        if (start >= end) {
+            return;
+        }
+
+        int pivot = partion(arr, start, end);
+        // left side
+        quickSort(arr, start, pivot - 1);
+        // right side
+        quickSort(arr, pivot, end);
+    }
+    vector<int> sortArray(vector<int>& nums) {
+        quickSort(nums, 0, nums.size()- 1);
+        return nums;
+    }
+};
