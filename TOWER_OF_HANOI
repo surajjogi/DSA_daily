@@ -1,0 +1,29 @@
+//a new apporach
+
+class Solution {
+  public:
+    // You need to complete this function
+void toh(int n,int sour,int help,int dest,int & ans){
+    if(n==1){
+        ans++;
+        return;
+    }
+    
+    toh(n-1,sour,dest, help,ans);
+    ans++;
+    toh(n-1,help,sour,dest,ans);
+}
+    int towerOfHanoi(int n, int from, int to, int aux) {
+      int ans=0;
+      if(n==0){
+          return 0;
+      }
+      toh(n,from,aux,to,ans);
+      return ans;
+    }
+};
+
+
+//seconde apporach
+simple use formula for count the total step ===>> ans=   (2^n)-1;
+return ans;
