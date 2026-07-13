@@ -23,9 +23,11 @@ public:
       vector<int> dp1(n - 1, -1);
 vector<int> dp2(n - 1, -1);
         vector<int> withoutFirst(nums.begin() + 1, nums.end());
+        int n1=withoutFirst.size();
         vector<int> withoutLast(nums.begin(), nums.end() - 1);
-        int max1=maxcost(dp1,withoutFirst,n-2);
-        int max2=maxcost(dp2,withoutLast,n-2);
+        int n2=withoutLast.size();
+        int max1=maxcost(dp1,withoutFirst,n1-1);
+        int max2=maxcost(dp2,withoutLast,n1-1);
         if(max1>max2){
             return max1;
         }
