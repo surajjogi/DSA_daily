@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajjogi/DSA_daily/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/surajjogi/DSA_daily/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajjogi/DSA_daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/surajjogi/DSA_daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
