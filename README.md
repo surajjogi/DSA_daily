@@ -41,14 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/surajjogi/DSA_daily/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/surajjogi/DSA_daily/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/surajjogi/DSA_daily/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/surajjogi/DSA_daily/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/surajjogi/DSA_daily/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/surajjogi/DSA_daily/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
