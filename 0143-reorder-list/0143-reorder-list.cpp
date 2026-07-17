@@ -1,72 +1,57 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
+
     void reorderList(ListNode* head) {
 
-        if (head == NULL || head->next == NULL)
+        if(head == nullptr || head->next == nullptr){
             return;
-
-        // Calculate total nodes
-        int total = 1;
-        ListNode *temp = head;
-
-        while (temp->next != NULL) {
-            total++;
-            temp = temp->next;
         }
 
-        int flist = (total + 1) / 2;   // First half gets extra node if odd
+        // Step 1: Find Middle
 
-        ListNode *left = head;
-        ListNode *head1 = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        int n = flist - 1;
-        while (n > 0) {
-            left = left->next;
-            n--;
+        while(fast->next != nullptr && fast->next->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        // Split list
-        ListNode *curr = left->next;
-        left->next = NULL;
+        // Step 2: Split List
 
-        // Reverse second half
-        ListNode *prev = NULL;
-        ListNode *next = NULL;
+        ListNode* second = slow->next;
+        slow->next = nullptr;
 
-        while (curr != NULL) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+        // Step 3: Reverse Second Half
+
+        ListNode* prev = nullptr;
+
+        while(second != nullptr){
+
+            ListNode* next = second->next;
+
+            second->next = prev;
+
+            prev = second;
+            second = next;
         }
 
-        ListNode *list1 = head1;
-        ListNode *list2 = prev;
+        second = prev;
 
-        // Merge alternately
-        while (list1 != NULL && list2 != NULL) {
-            ListNode *next1 = list1->next;
-            ListNode *next2 = list2->next;
+        // Step 4: Merge
 
-            list1->next = list2;
+        ListNode* first = head;
 
-            if (next1 == NULL)
-                break;
+        while(second != nullptr){
 
-            list2->next = next1;
+            ListNode* temp1 = first->next;
+            ListNode* temp2 = second->next;
 
-            list1 = next1;
-            list2 = next2;
+            first->next = second;
+            second->next = temp1;
+
+            first = temp1;
+            second = temp2;
         }
     }
 };
