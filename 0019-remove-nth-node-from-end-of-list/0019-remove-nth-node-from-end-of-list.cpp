@@ -32,3 +32,40 @@ public:
         return dummy->next;
     }
 };
+
+
+// class Solution {
+// public:
+//     ListNode* removeNthFromEnd(ListNode* head, int n) {
+
+//         if (head == nullptr)
+//             return nullptr;
+
+//         ListNode* fast = head;
+
+//         for (int i = 0; i < n; i++) {
+//             fast = fast->next;
+//         }
+
+//         // Base case: remove the first node
+//         if (fast == nullptr) {
+//             ListNode* temp = head;
+//             head = head->next;
+//             delete temp;
+//             return head;
+//         }
+
+//         ListNode* slow = head;
+
+//         while (fast->next != nullptr) {
+//             fast = fast->next;
+//             slow = slow->next;
+//         }
+
+//         ListNode* temp = slow->next;
+//         slow->next = slow->next->next;
+//         delete temp;
+
+//         return head;
+//     }
+// };
