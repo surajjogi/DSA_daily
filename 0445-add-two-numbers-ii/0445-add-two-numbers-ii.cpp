@@ -43,8 +43,8 @@ public:
             }
 
             carry = sum / 10;
-
-            ListNode* node = new ListNode(sum % 10);
+sum=sum%10;
+            ListNode* node = new ListNode(sum);
 
             // Insert at the front
             node->next = head;
