@@ -15,9 +15,9 @@ void inverseTree(TreeNode *root){
   if(root==NULL){
             return;
         }
-        // if(root->left==NULL &&root->right==NULL){
-
-        // }
+        if(root->left==NULL &&root->right==NULL){
+            return;
+        }
         TreeNode *temp=root->right;
         root->right=root->left;
         root->left=temp;
