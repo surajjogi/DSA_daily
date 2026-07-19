@@ -16,6 +16,9 @@ public:
         queue<TreeNode*>queue;
         queue.push(p);
         queue.push(q);
+         if (p == NULL && q== NULL) {
+            return true;
+            }
         while (!queue.empty()) {
             TreeNode* first = queue.front();
             queue.pop();
@@ -33,8 +36,6 @@ public:
             queue.push(second->right);
         }
      return true;
-        // if(p==NULL && q==NULL){
-
-        // }
+      
     }
 };
