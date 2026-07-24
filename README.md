@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajjogi/DSA_daily/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/surajjogi/DSA_daily/tree/master/0238-product-of-array-except-self) |
+| [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/surajjogi/DSA_daily/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
+## Greedy
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
