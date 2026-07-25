@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/surajjogi/DSA_daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/surajjogi/DSA_daily/tree/master/0445-add-two-numbers-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/surajjogi/DSA_daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
