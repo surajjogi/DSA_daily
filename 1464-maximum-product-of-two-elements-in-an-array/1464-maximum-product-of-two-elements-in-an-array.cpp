@@ -11,9 +11,7 @@ public:
               else if(nums[i]>max2){
                 max2=nums[i];
               }
-              else{
-
-              }
+            
 
         }
         return (max1-1)*(max2-1);
