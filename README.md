@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/surajjogi/DSA_daily/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajjogi/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
@@ -164,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/surajjogi/DSA_daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
