@@ -3,7 +3,7 @@ public:
     int lengthOfLongestSubstring(string s) {
     
         int maxlen=0;
-        unordered_set<char>st;
+        set<char>st;
         int left=0,right=0;
        while(right<s.size()){
             while(st.find(s[right])!=st.end()){
