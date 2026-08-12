@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [0486-predict-the-winner](https://github.com/surajjogi/DSA_daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajjogi/DSA_daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/surajjogi/DSA_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/surajjogi/DSA_daily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajjogi/DSA_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajjogi/DSA_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surajjogi/DSA_daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/surajjogi/DSA_daily/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/surajjogi/DSA_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/surajjogi/DSA_daily/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -256,8 +259,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
