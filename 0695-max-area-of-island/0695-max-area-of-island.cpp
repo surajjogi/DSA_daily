@@ -6,12 +6,9 @@ public:
         return 0;
        }
        visited[i][j]=true;
-      maxArea=1;
-    maxArea+= dfs(n, m, visited, grid, i - 1, j, maxArea);
-        maxArea+=dfs(n, m, visited, grid, i + 1, j, maxArea);
-        maxArea+=dfs(n, m, visited, grid, i, j + 1, maxArea);
-       maxArea+= dfs(n, m, visited, grid, i, j - 1, maxArea);
-       return maxArea;
+      
+      return 1+dfs(n, m, visited, grid, i - 1, j, maxArea)+dfs(n, m, visited, grid, i + 1, j, maxArea)+dfs(n, m, visited, grid, i, j + 1, maxArea)+ dfs(n, m, visited, grid, i, j - 1, maxArea);
+       
        
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
