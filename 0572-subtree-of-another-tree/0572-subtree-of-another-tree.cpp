@@ -15,8 +15,11 @@ bool identical(TreeNode *root,TreeNode* subRoot){
        if(root==NULL || subRoot==NULL){
         return root==subRoot;
        }
-   
-    return identical(root->left,subRoot->left)&&identical(root->right,subRoot->right)&&root->val==subRoot->val;
+        if(root->val==subRoot->val){
+           return identical(root->left,subRoot->left)&& identical(root->right,subRoot->right);
+      
+        }
+    return false;
 
 }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
