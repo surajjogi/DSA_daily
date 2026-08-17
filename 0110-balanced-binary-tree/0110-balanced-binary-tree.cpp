@@ -17,12 +17,13 @@ int height(TreeNode* root){
     }
     int leftHeight=height(root->left);
     int rightHeight=height(root->right);
-    if(abs(leftHeight-rightHeight)>1){
-        return -1;
-    }
     if(leftHeight==-1||rightHeight==-1){
         return -1;
     }
+    if(abs(leftHeight-rightHeight)>1){
+        return -1;
+    }
+    
 
     return 1+max(leftHeight,rightHeight);
 }
