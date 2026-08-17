@@ -12,9 +12,13 @@
 class Solution {
 public:
 bool identical(TreeNode *root,TreeNode* subRoot){
-       if(root==NULL || subRoot==NULL){
-        return root==subRoot;
-       }
+       if (root == NULL && subRoot == NULL) {
+    return true;
+}
+
+if (root == NULL || subRoot == NULL) {
+    return false;
+}
         if(root->val==subRoot->val){
            return identical(root->left,subRoot->left)  && identical(root->right,subRoot->right);
       
