@@ -23,6 +23,7 @@ board[i][j]='$';
             int new_i=i+dir[0];
             int new_j=j+dir[1];
             if(find(board,new_i,new_j,idx+1,word)){
+                board[i][j]=temp;
                 return true;
             }
         }
