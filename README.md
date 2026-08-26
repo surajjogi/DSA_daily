@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/surajjogi/DSA_daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/surajjogi/DSA_daily/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/surajjogi/DSA_daily/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajjogi/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajjogi/DSA_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/surajjogi/DSA_daily/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/surajjogi/DSA_daily/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/surajjogi/DSA_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/surajjogi/DSA_daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/surajjogi/DSA_daily/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surajjogi/DSA_daily/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/surajjogi/DSA_daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/surajjogi/DSA_daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/surajjogi/DSA_daily/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
 ## Graph Theory
