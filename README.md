@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/surajjogi/DSA_daily/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/surajjogi/DSA_daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/surajjogi/DSA_daily/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/surajjogi/DSA_daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/surajjogi/DSA_daily/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/surajjogi/DSA_daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajjogi/DSA_daily/tree/master/0213-house-robber-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
