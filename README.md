@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/surajjogi/DSA_daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/surajjogi/DSA_daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/surajjogi/DSA_daily/tree/master/0090-subsets-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/surajjogi/DSA_daily/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajjogi/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surajjogi/DSA_daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/surajjogi/DSA_daily/tree/master/0700-search-in-a-binary-search-tree) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/surajjogi/DSA_daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
