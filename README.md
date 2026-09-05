@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/surajjogi/DSA_daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajjogi/DSA_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/surajjogi/DSA_daily/tree/master/0695-max-area-of-island) |
+| [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/surajjogi/DSA_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/surajjogi/DSA_daily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajjogi/DSA_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/surajjogi/DSA_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/surajjogi/DSA_daily/tree/master/0141-linked-list-cycle) |
+| [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/surajjogi/DSA_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajjogi/DSA_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajjogi/DSA_daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajjogi/DSA_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajjogi/DSA_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/surajjogi/DSA_daily/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
+| [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
