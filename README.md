@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/surajjogi/DSA_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/surajjogi/DSA_daily/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajjogi/DSA_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/surajjogi/DSA_daily/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/surajjogi/DSA_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajjogi/DSA_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/surajjogi/DSA_daily/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/surajjogi/DSA_daily/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/surajjogi/DSA_daily/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
