@@ -17,7 +17,7 @@ public:
                 }
                 mp[curr + i]--;
 
-                if (mp[curr + i] < 1) {
+                if (mp[curr + i] == 0) {
                     mp.erase(curr + i);
                 }
             }
