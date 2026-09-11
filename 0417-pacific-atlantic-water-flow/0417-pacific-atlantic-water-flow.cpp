@@ -4,10 +4,10 @@ public:
     vector<vector<int>> direction = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     void dfs(int i, int j, int prevCellVal, vector<vector<int>>& heights,
              vector<vector<bool>>& visited) {
-        if (i < 0 || j < 0 || i >= m || j >= n) {
+        if (i < 0 || j < 0 || i >= m || j >= n|| visited[i][j]) {
             return;
         }
-        if (heights[i][j] < prevCellVal || visited[i][j]) {
+        if (heights[i][j] < prevCellVal ) {
             return;
         }
         visited[i][j] = true;
