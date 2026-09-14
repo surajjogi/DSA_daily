@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/surajjogi/DSA_daily/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/surajjogi/DSA_daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajjogi/DSA_daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajjogi/DSA_daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajjogi/DSA_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/surajjogi/DSA_daily/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/surajjogi/DSA_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/surajjogi/DSA_daily/tree/master/0141-linked-list-cycle) |
 | [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/surajjogi/DSA_daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajjogi/DSA_daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
